@@ -1,2 +1,6 @@
 # api_learn
-Used to learn api calls.
+I used this to learn api calls.
+
+Shows a gif using search promt.
+
+live: https://redpho.github.io/api_learn/
